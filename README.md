@@ -1,1 +1,3 @@
-# homework_excel
+# Excel_KickstarterData
+
+Uses Excel to analyze data about Kickstarter campaigns.
